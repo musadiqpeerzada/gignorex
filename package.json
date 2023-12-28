@@ -1,0 +1,32 @@
+{
+  "name": "gignorex",
+  "version": "1.0.0",
+  "description": "CLI tool to manage local and global .gitignore",
+  "main": "index.js",
+  "bin": {
+    "gignorex": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musadiqpeerzada/gignorex.git"
+  },
+  "keywords": [
+    "git",
+    "ignore",
+    "CLI",
+    "utility"
+  ],
+  "author": "Musadiq Peerzada",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "minimist": "^1.2.8"
+  },
+  "bugs": {
+    "url": "https://github.com/musadiqpeerzada/gignorex/issues"
+  },
+  "homepage": "https://github.com/musadiqpeerzada/gignorex#readme"
+}
