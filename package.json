@@ -1,7 +1,7 @@
 {
   "name": "gignorex",
   "version": "1.0.0",
-  "description": "CLI tool to manage local and global .gitignore",
+  "description": "This tool is designed to handle Git-ignore functionality for files that editors or IDEs produce (such as configuration files) that you don't want to push to Git but also don't want to add explicitly to the .gitignore file.",
   "main": "index.js",
   "bin": {
     "gignorex": "./index.js"
