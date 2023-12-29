@@ -1,0 +1,6 @@
+/tests/
+/docs/
+.gitignore
+node_modules/
+.vscode/
+/.vscode/
